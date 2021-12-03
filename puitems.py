@@ -1,4 +1,4 @@
-puitems = {
+puitem = {
     'white-flower' : {'chance': 1000},
     'ant' : {'chance': 1000},
     'stick' : {'chance': 1000},
